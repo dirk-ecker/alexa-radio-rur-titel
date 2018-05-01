@@ -6,7 +6,7 @@ const APP_ID = ''
 const languageStrings = {
   'de-DE': {
     'translation': {
-      'SKILL_NAME': 'radiorurTitle',
+      'SKILL_NAME': 'Radio Rur Titel',
       'INTRO_MESSAGE': 'Auf Radio Rur läuft gerade ',
       'VON_MESSAGE': ' von ',
       'NOTHING_MESSAGE': ' kein Song.',
